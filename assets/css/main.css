@@ -131,11 +131,11 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #888;
+			color: #000000;
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: #000000;
 			}
 
 	h3 {
@@ -1828,7 +1828,7 @@ input, select, textarea {
 			display: inline-block;
 			width: 2em;
 			height: 2em;
-			font-size: 1.5em;
+			font-size: 1.4em;
 			line-height: 2em;
 			text-align: center;
 			border: 0;
@@ -2228,12 +2228,12 @@ input, select, textarea {
 				}
 
 				#main > section.dark strong {
-					color: #fff;
+					color: #000000;
 					border-color: inherit;
 				}
 
 				#main > section.dark a {
-					color: #fff;
+					color: #000000;
 					border-color: inherit;
 				}
 
@@ -2249,7 +2249,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/background.jpg");
 			}
 
 			#main > section.two {
@@ -2413,7 +2413,7 @@ input, select, textarea {
 
 			ul.icons a {
 				width: 1.75em;
-				font-size: 1.5em;
+				font-size: 1em;
 			}
 
 		/* Header */
@@ -2599,8 +2599,8 @@ input, select, textarea {
 		/* List */
 
 			ul.icons a {
-				width: 2em;
-				font-size: 1.5em;
+				width: 1.5em;
+				font-size: 1em;
 			}
 
 		/* Main */
